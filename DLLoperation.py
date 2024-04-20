@@ -155,3 +155,6 @@ printRightToLeftManner(head)
 #head = insertAtSpecificPosition(head, 12222, 3)
 head = deleteNodeAtSpecificPosition(head, 4)
  
+printLeftToRightManner(head)
+printRightToLeftManner(head)
+ 
